@@ -1,6 +1,3 @@
-"""
-Lexer for ShivC. Converts a program string into a list of tokens.
-"""
 
 import re
 
